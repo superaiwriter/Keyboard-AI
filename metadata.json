@@ -1,0 +1,6 @@
+{
+  "name": "KeyAssist AI",
+  "description": "Futuristic AI keyboard typing assistant supporting grammar check, smart replies, Hinglish, and custom shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
